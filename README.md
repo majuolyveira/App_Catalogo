@@ -1,6 +1,12 @@
-# app_catalogo_biblioteca
+# App Catálogo de Biblioteca
 
-A new Flutter project.
+Um Catálogo de Livros, onde você pode adicionar novos livros
+e visualiza-los.
+
+## Funcionalidades
+
+- Possui acesso a camera do celular
+- Permanência de dados com o SQLite
 
 ## Getting Started
 
